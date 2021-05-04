@@ -1,0 +1,10 @@
+E:\Projects\.NET\Thermometer\Thermometer\bin\Debug\Thermometer.exe.config
+E:\Projects\.NET\Thermometer\Thermometer\bin\Debug\Thermometer.exe
+E:\Projects\.NET\Thermometer\Thermometer\bin\Debug\Thermometer.pdb
+E:\Projects\.NET\Thermometer\Thermometer\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\.NET\Thermometer\Thermometer\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\.NET\Thermometer\Thermometer\obj\Debug\Thermometer.CORE.csprojAssemblyReference.cache
+E:\Projects\.NET\Thermometer\Thermometer\obj\Debug\Thermometer.CORE.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\Thermometer\Thermometer\obj\Debug\Thermometer.CORE.csproj.CopyComplete
+E:\Projects\.NET\Thermometer\Thermometer\obj\Debug\Thermometer.exe
+E:\Projects\.NET\Thermometer\Thermometer\obj\Debug\Thermometer.pdb

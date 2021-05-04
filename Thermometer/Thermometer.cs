@@ -9,11 +9,11 @@ using Thermometer.Model;
 
 namespace Thermometer
 {
-    class Thermometer : ThermometerModel
+    public class Thermometer : ThermometerModel
     {
 
         /// <summary>
-        /// Thermometer constructor
+        /// initialize freezing and boiling point value
         /// </summary>
         /// <param name="freezingPoint"></param>
         /// <param name="boilingPoint"></param>
@@ -23,15 +23,18 @@ namespace Thermometer
         }
 
         /// <summary>
-        /// Thermometer constructor
+        /// initialize freezing, boiling and custom threshold value
         /// </summary>
         /// <param name="freezingPoint"></param>
         /// <param name="boilingPoint"></param>
         /// <param name="customThresholdPoint"></param>
         public Thermometer(double freezingPoint, double boilingPoint, double customThresholdPoint)
         {
-            CustomThresholdPoint = customThresholdPoint;
-            InitThermometerModelProperties(freezingPoint, boilingPoint);
+            if(customThresholdPoint != freezingPoint && customThresholdPoint != boilingPoint)
+            {
+                CustomThresholdPoint = customThresholdPoint;
+                InitThermometerModelProperties(freezingPoint, boilingPoint);
+            }
         }
 
         /// <summary>

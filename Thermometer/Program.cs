@@ -21,7 +21,7 @@ namespace Thermometer
              *  
              * ************************************************************************************************/
 
-            Thermometer thermometer = new Thermometer(-20, 30, 8); // initialize Thermometer class
+            Thermometer thermometer = new Thermometer(-30, 30, 8); // initialize Thermometer class
             Random rand = new Random(); //use Random class for generate sample data
 
             //thermometer.FreezingPoint = -20;          // other way of setting freezing point
@@ -31,7 +31,7 @@ namespace Thermometer
 
             while (true) // use while loop to make it like a streaming
             {
-                var temperatureObj = thermometer.ReadTemperature(0, ThresholdPoint.FreezingPoint);
+                var temperatureObj = thermometer.ReadTemperature(rand.Next(-20, 20), ThresholdPoint.FreezingPoint);
 
                 Console.WriteLine($"{temperatureObj.Value} {temperatureObj.prefix} {temperatureObj.Message}");
                 Thread.Sleep(1500);

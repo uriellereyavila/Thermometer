@@ -1,0 +1,17 @@
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Thermometer.TEST.dll
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Thermometer.TEST.pdb
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Thermometer.exe
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Thermometer.pdb
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Thermometer.exe.config
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Projects\.NET\Thermometer\Thermometer.TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Projects\.NET\Thermometer\Thermometer.TEST\obj\Debug\Thermometer.TEST.csprojAssemblyReference.cache
+E:\Projects\.NET\Thermometer\Thermometer.TEST\obj\Debug\Thermometer.TEST.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\Thermometer\Thermometer.TEST\obj\Debug\Thermometer.TEST.csproj.CopyComplete
+E:\Projects\.NET\Thermometer\Thermometer.TEST\obj\Debug\Thermometer.TEST.dll
+E:\Projects\.NET\Thermometer\Thermometer.TEST\obj\Debug\Thermometer.TEST.pdb
