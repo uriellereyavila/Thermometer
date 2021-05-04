@@ -30,3 +30,21 @@ or
   thermometer.BoilingPoint = 20;
   thermometer.CustomThresholdPoint = 0;
   ```
+
+<h3>NOTE:</h3>
+
+You cannot set the threshold point(s) with the same value
+
+
+<h3>Functions:</h3>
+
+- ```TemperatureModel ReadTemperature(double value)``` reads a given temperature and validates the temperature if it is reached into a certain threshold point.
+- ```TemperatureModel ReadTemperature(double value, ThresholdPoint thresholdPoint)``` reads a given temperature and validates if the temperature reached into a given ThresholdPoint enum
+
+
+<h3>Properties:</h3>
+
+- ```BoilingPoint ``` gets or sets boiling point of the thermometer
+- ```FreezingPoint``` gets or sets Freezing Point of the thermometer
+- ```CustomThresholdPoint```  gets or sets custom threshold point of the thermometer
+- ```ShowTriggeredPointOnce``` Calls or trigger the certain threshold point once if the temperature is repeatedly on a certain threshold point.
