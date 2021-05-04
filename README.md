@@ -30,26 +30,3 @@ or
   thermometer.BoilingPoint = 20;
   thermometer.CustomThresholdPoint = 0;
   ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Scope
-Hypothesis
-Limitation
